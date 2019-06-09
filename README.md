@@ -1,2 +1,2 @@
 # Imman_CV
-A LaTex format of the CV 
+A LaTex format of my CV written in LaTex.
